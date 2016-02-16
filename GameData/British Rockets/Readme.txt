@@ -2,7 +2,7 @@ British Rockets
 
 by TheWire
 
-v1.0.0  KSP 1.0.4
+v1.0.1  KSP 1.0.5
 
 ***************************************************************************************************************************
 
@@ -30,6 +30,13 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 ***************************************************************************************************************************
 
 Change Log:
+
+1.0.1
+ * 1.0.5 compatibility
+ * Changed engine gimbal layout
+ * Fixed real fuel solid fuel issue in craft file
+ * Added ullage in real fuel
+ * Fixed fuel/oxidiser not appearing when no real fuel but module manager is present
 
 1.0.0
  * Initial Release
