@@ -2,7 +2,7 @@ British Rockets
 
 by TheWire
 
-v1.0.1  KSP 1.0.5
+v1.1.0  KSP 1.0.5
 
 ***************************************************************************************************************************
 
@@ -31,6 +31,10 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Change Log:
 
+1.1.0
+ * Added Prospero X3 Satellite
+ * ModuleManager config fixes
+ 
 1.0.1
  * 1.0.5 compatibility
  * Changed engine gimbal layout
